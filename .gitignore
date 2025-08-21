@@ -60,3 +60,10 @@ coverage/
 # infra temp data
 /infra/data/
 /infra/backups/
+
+**/node_modules/
+**/dist/
+**/.vite/
+**/.env
+**/.env.*
+
